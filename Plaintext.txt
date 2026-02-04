@@ -1,0 +1,6 @@
+yolo-streamlit-app/
+├── app.py              # The main Streamlit code
+├── requirements.txt    # List of libraries for the server
+├── yolo11n.pt          # Your model weights (or it will auto-download)
+└── .streamlit/
+    └── config.toml     # Optional: For custom themes
